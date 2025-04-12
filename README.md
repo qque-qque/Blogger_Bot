@@ -2,6 +2,8 @@
 
 이 프로그램은 **Google Blogger API**를 사용하여 **자동으로 블로그 포스트**를 작성하는 Python 스크립트입니다. `input.txt` 파일에서 제목과 내용을 읽어들여, 해당 내용을 Blogger 블로그에 포스트로 작성합니다.
 
+[AI Blog 예시](https://labnest2025.blogspot.com/)
+
 ---
 
 ## **필요한 라이브러리 및 설정**
